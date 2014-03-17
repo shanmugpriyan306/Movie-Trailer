@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Movie Trailer</string>
+    <string name="app_description">Movie Trailer</string>
+    <string name="startup_description">The cinema of India consists of films produced across India, which includes the cinematic cultures of Andhra Pradesh, Assam, Bihar, Gujarat, Haryana, Jammu and Kashmir, Jharkhand, Karnataka, Kerala, Maharashtra, Manipur, Odisha, Punjab, Rajasthan, Tamil Nadu, Uttar Pradesh and West Bengal</string>
+    <string name="startup_button">Start</string>
+    <string name="background_view_img">Background view image</string>
+
+</resources>
